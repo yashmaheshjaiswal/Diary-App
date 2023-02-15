@@ -1,0 +1,20 @@
+{
+    "myDiary": "Mi Diario",
+    "entry": "Entrada",
+    "entries": "Entradas",
+    "newEntry": "Nueva Entrada",
+    "editEntry": "Editar Entrada",
+    "entryRemoved": "Entrada borrada",
+    "entrySaved": "Entrada guardada",
+    "undo": "Deshacer",
+    "emptyDay": "Este día está vacío. ¡Escribe alguna cosa!",
+    "title": "Título",
+    "date": "Fecha",
+    "body": "Cuerpo",
+    "emptyFieldError": "Este campo no puede estar vacío",
+    "anonymous": "Anónimo",
+    "signInWithGoogle": "Identifícate con Google",
+    "signInAnonymously": "Entra como anónimo",
+    "logout": "Cerrar la sesión",
+    "errorOccurred": "Ha ocurrido un error. Por favor, prueba de nuevo"
+}

@@ -1,0 +1,21 @@
+{
+    "myDiary": "El meu Diari",
+    "entry": "Entrada",
+    "entries": "Entrades",
+    "newEntry": "Nova Entrada",
+    "editEntry": "Editar Entrada",
+    "entryRemoved": "Entrada esborrada",
+    "entrySaved": "Entrada desada",
+    "undo": "Desfés",
+    "emptyDay": "Aquest dia està buit. Escriu alguna cosa!",
+    "title": "Títol",
+    "date": "Data",
+    "body": "Cos",
+    "emptyFieldError": "Aquest camp no pot estar buit",
+    "anonymous": "Anònim",
+    "signInWithGoogle": "Identifica't amb Google",
+    "signInAnonymously": "Entra com anònim",
+    "logout": "Tanca la sessió",
+    "errorOccurred": "Ha ocurregut un error. Sisplau, prova de nou"
+
+}
